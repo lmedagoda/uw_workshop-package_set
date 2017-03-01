@@ -1,0 +1,11 @@
+in_flavor 'master' do
+
+cmake_package 'eurex/servos_leng'
+cmake_package 'eurex/maxon_dynamixel'
+cmake_package 'eurex/leng_docking'
+cmake_package 'eurex/flasher_eurex'
+cmake_package 'perception/apriltags'
+#cmake_package 'drivers/efuse_board'
+#cmake_package 'gui/efuse_board_widget'
+import_package 'leng_scripts'
+end
