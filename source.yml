@@ -1,4 +1,4 @@
-name: dfki.eurex
+name: dfki.uw_workshop
 
 imports:
 
@@ -129,7 +129,11 @@ version_control:
 
     - perception/orogen/apriltags:
        github: rock-perception/perception-orogen-apriltags
-       branch: $ROCK_BRANCH 
+       branch: $ROCK_BRANCH
+       
+    - control/orogen/uwv_motion_model:
+       github: lmedagoda/orogen-uwv_motion_model
+       branch: master
        
 #    - drivers/efuse_board:
 #        type: git
