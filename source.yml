@@ -135,6 +135,10 @@ version_control:
        github: lmedagoda/orogen-uwv_motion_model
        branch: master
        
+    - control/orogen/motion_model_control:
+       github: lmedagoda/motion_model_control
+       branch: master
+       
 #    - drivers/efuse_board:
 #        type: git
 #        url: $SPACEGIT_ROOT/flatfish/efuse_board.git
