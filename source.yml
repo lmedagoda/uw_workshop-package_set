@@ -142,6 +142,14 @@ version_control:
     - uw_workshop/orogen/workshop:
        github: lmedagoda/uw_workshop-orogen-workshop
        branch: master
+              
+    - image_processing/orogen/offshore_pipeline_detector:
+       github: lmedagoda/image_processing-orogen-offshore_pipeline_detector
+       branch: master
+       
+    - image_processing/offshore_pipeline_detector:
+       github: lmedagoda/image_processing-offshore_pipeline_detector
+       branch: master
        
 #    - drivers/efuse_board:
 #        type: git
