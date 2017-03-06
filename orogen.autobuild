@@ -21,3 +21,5 @@ orogen_package 'eurex/orogen/flasher_eurex'
 orogen_package 'eurex/orogen/glider_inspection'
 orogen_package 'control/orogen/uwv_motion_model'
 orogen_package 'control/orogen/motion_model_control'
+orogen_package 'uw_workshop/orogen/workshop'
+
