@@ -12,7 +12,7 @@ version_control:
     - control/orogen/uwv_motion_model:
        github: lmedagoda/orogen-uwv_motion_model
        branch: master
-     - control/uwv_dynamic_model:
+    - control/uwv_dynamic_model:
        github: lmedagoda/uwv_dynamic_model
        branch: master
 
