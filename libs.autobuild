@@ -1,4 +1,5 @@
 in_flavor 'master' do
 
+cmake_package 'control/uwv_dynamic_model'
 
 end
