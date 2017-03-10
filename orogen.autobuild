@@ -1,5 +1,4 @@
 
-##### Eurex packets
 
 orogen_package 'control/orogen/uwv_motion_model'
 orogen_package 'control/orogen/motion_model_control'
