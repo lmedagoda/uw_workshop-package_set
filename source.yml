@@ -29,6 +29,10 @@ version_control:
     - image_processing/offshore_pipeline_detector:
        github: lmedagoda/image_processing-offshore_pipeline_detector
        branch: master
+
+    - slam/orogen/measurement_sampling:
+       github: sarnold/slam-orogen-measurement_sampling.git
+       branch: master
        
 #    - drivers/efuse_board:
 #        type: git
