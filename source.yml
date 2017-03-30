@@ -31,7 +31,8 @@ version_control:
        branch: master
 
     - slam/orogen/measurement_sampling:
-       github: sarnold/slam-orogen-measurement_sampling.git
+       type: git
+       url: $SPACEGIT_ROOT/sarnold/slam-orogen-measurement_sampling.git
        branch: master
        
 #    - drivers/efuse_board:
